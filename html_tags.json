@@ -1,0 +1,448 @@
+{
+    "tags": [
+        {
+            "tag": "</a>",
+            "content": "Bağlantı (anchor)"
+        },
+        {
+            "tag": "</abbr>",
+            "content": "Kısaltma"
+        },
+        {
+            "tag": "</address>",
+            "content": "Adres bilgisi"
+        },
+        {
+            "tag": "</area>",
+            "content": "Harita içindeki alan"
+        },
+        {
+            "tag": "</article>",
+            "content": "Makale içeriği"
+        },
+        {
+            "tag": "</aside>",
+            "content": "Yan içerik"
+        },
+        {
+            "tag": "</audio>",
+            "content": "Ses içeriği"
+        },
+        {
+            "tag": "</b>",
+            "content": "Kalın yazı"
+        },
+        {
+            "tag": "</base>",
+            "content": "Temel URL"
+        },
+        {
+            "tag": "</bdi>",
+            "content": "İzole metin yönü"
+        },
+        {
+            "tag": "</bdo>",
+            "content": "Metin yönünü belirtir"
+        },
+        {
+            "tag": "</blockquote>",
+            "content": "Alıntı"
+        },
+        {
+            "tag": "</body>",
+            "content": "Sayfa gövdesi"
+        },
+        {
+            "tag": "</br>",
+            "content": "Satır sonu"
+        },
+        {
+            "tag": "</button>",
+            "content": "Buton"
+        },
+        {
+            "tag": "</canvas>",
+            "content": "Grafik çizimi"
+        },
+        {
+            "tag": "</caption>",
+            "content": "Tablo başlığı"
+        },
+        {
+            "tag": "</cite>",
+            "content": "Alıntı kaynağı"
+        },
+        {
+            "tag": "</code>",
+            "content": "Kod parçacığı"
+        },
+        {
+            "tag": "</col>",
+            "content": "Tablo sütunu"
+        },
+        {
+            "tag": "</colgroup>",
+            "content": "Tablo sütun grubu"
+        },
+        {
+            "tag": "</data>",
+            "content": "Makine tarafından okunabilir veri"
+        },
+        {
+            "tag": "</datalist>",
+            "content": "Seçim listesi"
+        },
+        {
+            "tag": "</dd>",
+            "content": "Tanım detayı"
+        },
+        {
+            "tag": "</del>",
+            "content": "Silinmiş metin"
+        },
+        {
+            "tag": "</details>",
+            "content": "Açılır/kapanır bilgi kutusu"
+        },
+        {
+            "tag": "</dfn>",
+            "content": "Tanımlanan terim"
+        },
+        {
+            "tag": "</dialog>",
+            "content": "Diyalog kutusu"
+        },
+        {
+            "tag": "</div>",
+            "content": "Blok kutusu"
+        },
+        {
+            "tag": "</dl>",
+            "content": "Tanım listesi"
+        },
+        {
+            "tag": "</dt>",
+            "content": "Tanım başlığı"
+        },
+        {
+            "tag": "</em>",
+            "content": "Vurgulu metin"
+        },
+        {
+            "tag": "</embed>",
+            "content": "Gömülü içerik (örn. video)"
+        },
+        {
+            "tag": "</fieldset>",
+            "content": "Form alan grubu"
+        },
+        {
+            "tag": "</figcaption>",
+            "content": "Görsel açıklama"
+        },
+        {
+            "tag": "</figure>",
+            "content": "Görsel içerik kapsayıcısı"
+        },
+        {
+            "tag": "</footer>",
+            "content": "Alt bilgi"
+        },
+        {
+            "tag": "</form>",
+            "content": "Form"
+        },
+        {
+            "tag": "</h1>",
+            "content": "Başlık 1. seviye"
+        },
+        {
+            "tag": "</h2>",
+            "content": "Başlık 2. seviye"
+        },
+        {
+            "tag": "</h3>",
+            "content": "Başlık 3. seviye"
+        },
+        {
+            "tag": "</h4>",
+            "content": "Başlık 4. seviye"
+        },
+        {
+            "tag": "</h5>",
+            "content": "Başlık 5. seviye"
+        },
+        {
+            "tag": "</h6>",
+            "content": "Başlık 6. seviye"
+        },
+        {
+            "tag": "</head>",
+            "content": "Sayfa başlığı bilgileri"
+        },
+        {
+            "tag": "</header>",
+            "content": "Üst bilgi"
+        },
+        {
+            "tag": "</hgroup>",
+            "content": "Başlık grubu"
+        },
+        {
+            "tag": "</hr>",
+            "content": "Yatay çizgi"
+        },
+        {
+            "tag": "</html>",
+            "content": "HTML kökü"
+        },
+        {
+            "tag": "</i>",
+            "content": "Eğik yazı"
+        },
+        {
+            "tag": "</iframe>",
+            "content": "Gömülü çerçeve"
+        },
+        {
+            "tag": "</img>",
+            "content": "Görsel"
+        },
+        {
+            "tag": "</input>",
+            "content": "Form girişi"
+        },
+        {
+            "tag": "</ins>",
+            "content": "Eklenmiş metin"
+        },
+        {
+            "tag": "</kbd>",
+            "content": "Klavye girişi"
+        },
+        {
+            "tag": "</label>",
+            "content": "Form etiketi"
+        },
+        {
+            "tag": "</legend>",
+            "content": "Fieldset başlığı"
+        },
+        {
+            "tag": "</li>",
+            "content": "Liste öğesi"
+        },
+        {
+            "tag": "</link>",
+            "content": "Harici bağlantı (örn. CSS)"
+        },
+        {
+            "tag": "</main>",
+            "content": "Ana içerik"
+        },
+        {
+            "tag": "</map>",
+            "content": "Görsel harita"
+        },
+        {
+            "tag": "</mark>",
+            "content": "Vurgulu metin"
+        },
+        {
+            "tag": "</meta>",
+            "content": "Meta veri"
+        },
+        {
+            "tag": "</meter>",
+            "content": "Ölçüm göstergesi"
+        },
+        {
+            "tag": "</nav>",
+            "content": "Navigasyon bağlantıları"
+        },
+        {
+            "tag": "</noscript>",
+            "content": "JavaScript desteklenmediğinde"
+        },
+        {
+            "tag": "</object>",
+            "content": "Gömülü nesne"
+        },
+        {
+            "tag": "</ol>",
+            "content": "Sıralı liste"
+        },
+        {
+            "tag": "</optgroup>",
+            "content": "Seçenek grubu"
+        },
+        {
+            "tag": "</option>",
+            "content": "Seçenek"
+        },
+        {
+            "tag": "</output>",
+            "content": "Hesaplanmış çıktı"
+        },
+        {
+            "tag": "</p>",
+            "content": "Paragraf"
+        },
+        {
+            "tag": "</param>",
+            "content": "Parametre (object içinde)"
+        },
+        {
+            "tag": "</picture>",
+            "content": "Görsel varyasyonları"
+        },
+        {
+            "tag": "</pre>",
+            "content": "Ön biçimlendirilmiş metin"
+        },
+        {
+            "tag": "</progress>",
+            "content": "İlerleme çubuğu"
+        },
+        {
+            "tag": "</q>",
+            "content": "Kısa alıntı"
+        },
+        {
+            "tag": "</rp>",
+            "content": "Ruby parantezi"
+        },
+        {
+            "tag": "</rt>",
+            "content": "Ruby açıklaması"
+        },
+        {
+            "tag": "</ruby>",
+            "content": "Ruby notasyonu"
+        },
+        {
+            "tag": "</s>",
+            "content": "Üzeri çizili metin"
+        },
+        {
+            "tag": "</samp>",
+            "content": "Çıktı örneği"
+        },
+        {
+            "tag": "</script>",
+            "content": "JavaScript kodu"
+        },
+        {
+            "tag": "</section>",
+            "content": "Bölüm"
+        },
+        {
+            "tag": "</select>",
+            "content": "Açılır liste"
+        },
+        {
+            "tag": "</small>",
+            "content": "Küçük metin"
+        },
+        {
+            "tag": "</source>",
+            "content": "Ortam kaynağı"
+        },
+        {
+            "tag": "</span>",
+            "content": "Satır içi kutu"
+        },
+        {
+            "tag": "</strong>",
+            "content": "Güçlü vurgu"
+        },
+        {
+            "tag": "</style>",
+            "content": "Stil tanımı"
+        },
+        {
+            "tag": "</sub>",
+            "content": "Alt simge"
+        },
+        {
+            "tag": "</summary>",
+            "content": "Details özeti"
+        },
+        {
+            "tag": "</sup>",
+            "content": "Üst simge"
+        },
+        {
+            "tag": "</svg>",
+            "content": "Vektör grafikleri"
+        },
+        {
+            "tag": "</table>",
+            "content": "Tablo"
+        },
+        {
+            "tag": "</tbody>",
+            "content": "Tablo gövdesi"
+        },
+        {
+            "tag": "</td>",
+            "content": "Tablo hücresi"
+        },
+        {
+            "tag": "</template>",
+            "content": "Şablon içeriği"
+        },
+        {
+            "tag": "</textarea>",
+            "content": "Metin alanı"
+        },
+        {
+            "tag": "</tfoot>",
+            "content": "Tablo altlığı"
+        },
+        {
+            "tag": "</th>",
+            "content": "Tablo başlığı"
+        },
+        {
+            "tag": "</thead>",
+            "content": "Tablo başı"
+        },
+        {
+            "tag": "</time>",
+            "content": "Tarih/saat"
+        },
+        {
+            "tag": "</title>",
+            "content": "Sayfa başlığı"
+        },
+        {
+            "tag": "</tr>",
+            "content": "Tablo satırı"
+        },
+        {
+            "tag": "</track>",
+            "content": "Video altyazısı"
+        },
+        {
+            "tag": "</u>",
+            "content": "Altı çizili metin"
+        },
+        {
+            "tag": "</ul>",
+            "content": "Sırasız liste"
+        },
+        {
+            "tag": "</var>",
+            "content": "Değişken"
+        },
+        {
+            "tag": "</video>",
+            "content": "Video içeriği"
+        },
+        {
+            "tag": "</wbr>",
+            "content": "Satır kırma önerisi"
+        }
+    ]
+}
