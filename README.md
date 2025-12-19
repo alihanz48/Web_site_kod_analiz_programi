@@ -12,8 +12,6 @@ Script, verilen URL üzerinde analizler yapar ve hangi etiketin kaç kez kullan�
 
 ## 🛠️ Teknolojiler ve Kütüphaneler
 
-Bu proje **Python 3** ile geliştirilmiştir ve aşağıdaki harici kütüphaneleri kullanır:
-
-* **Requests:** Web sitelerine HTTP istekleri göndermek için.
+Bu proje **Python 3** ile geliştirilmiştir ve web sitelerine HTTP istekleri göndermek için Requests kütüphanesini kullanır.
 
 <img width="960" height="+480+" alt="Image" src="./Images/1.png" />
